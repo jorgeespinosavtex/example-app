@@ -1,7 +1,7 @@
 {
   "name": "example-app",
   "vendor": "decorest",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0-beta.1",
   "title": "example-app",
   "description": "example-app",
   "billingOptions": {
@@ -19,7 +19,8 @@
     "react": "3.x",
     "store": "0.x",
     "pixel": "0.x",
-    "docs": "0.x"
+    "docs": "0.x",
+    "node": "0.x"
   },
   "dependencies": {
     "vtex.pixel-interfaces": "1.x"
