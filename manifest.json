@@ -1,7 +1,7 @@
 {
   "name": "example-app",
   "vendor": "decorest",
-  "version": "1.0.0-beta.1",
+  "version": "1.1.0-beta.0",
   "title": "example-app",
   "description": "example-app",
   "billingOptions": {
