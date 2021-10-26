@@ -1,0 +1,10 @@
+  <script>
+  (function() {
+    var appId = "{{settings.name}}";
+    if (!appId) {
+      console.error('Warning: No APP NAME ID is defined. Please configure it in the apps admin.');
+      return
+    }
+    alert("Hello! I am an alert box!! " + name);
+  })()
+</script>
